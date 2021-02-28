@@ -248,7 +248,7 @@ git branch -M main
 <br>
 <p align="center"><b>. . .</b></p><br>
 <h2>Thank You :smiley:<h2>
-<h2>2inkedIn Profile</h2>
+<h2>LinkedIn Profile</h2>
 https://www.linkedin.com/in/satyam-singh-95a266182
 
 <h2>Link to the repository mentioned above</h2>
