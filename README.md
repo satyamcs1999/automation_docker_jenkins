@@ -238,9 +238,17 @@ fi
 
 <br>
 <p align="center"><b>. . .</b></p><br>
+<h2>[Update]:</h2>
+<p>In GitHub, master branch has been renamed to main branch, therefore before pushing the code to the GitHub repository, branch could be switched from master to main using the command mentioned below:</p><br>
 
+```shell
+git branch -M main
+```
+
+<br>
+<p align="center"><b>. . .</b></p><br>
 <h2>Thank You :smiley:<h2>
-<h3>LinkedIn Profile</h3>
+<h2>2inkedIn Profile</h2>
 https://www.linkedin.com/in/satyam-singh-95a266182
 
 <h2>Link to the repository mentioned above</h2>
