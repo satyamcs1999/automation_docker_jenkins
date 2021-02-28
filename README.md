@@ -248,9 +248,9 @@ git branch -M main
 <br>
 <p align="center"><b>. . .</b></p><br>
 <h2>Thank You :smiley:<h2>
-<h2>LinkedIn Profile</h2>
+<h3>LinkedIn Profile</h3>
 https://www.linkedin.com/in/satyam-singh-95a266182
 
-<h2>Link to the repository mentioned above</h2>
+<h3>Link to the repository mentioned above</h3>
 https://github.com/satyamcs1999/dockerfile_Jenkins.git
 
