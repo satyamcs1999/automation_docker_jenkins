@@ -6,7 +6,7 @@ __<h1>Problem Statement</h1>__
 
   <li>When we launch this image, it should automatically start Jenkins service in the container. </li>
 
-  <li>Create a Job chain of Job1, Job2, Job3 and Job4 in Jenkins. </li> 
+  <li>Create a Job chain of Job1, Job2, Job3 and Job4 using Build Pipeline in Jenkins. </li> 
 
   <li>Job1 : Pull the GitHub repo automatically when some developers push repo to GitHub. </li>
 
